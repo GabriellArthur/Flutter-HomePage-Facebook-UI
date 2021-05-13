@@ -1,4 +1,4 @@
-# Flutter Facebook Responsive UI Starter Project
+# Flutter Facebook Responsive UI
 
 Projeto de aprendizagem.
 
